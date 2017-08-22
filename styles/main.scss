@@ -30,7 +30,6 @@ body {
 	width: $block-width;
 	height: $block-height;
 	margin: $block-margin 0 0 $block-margin;
-		background: gray;
 
 	&--double {
 		width: $block-width*2 + $block-margin;
